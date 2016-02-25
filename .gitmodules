@@ -1,0 +1,6 @@
+[submodule "adapter"]
+	path = adapter
+	url = https://github.com/webrtc/adapter.git
+[submodule "recorderjs"]
+	path = recorderjs
+	url = https://github.com/mattdiamond/Recorderjs.git
